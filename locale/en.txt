@@ -1,0 +1,28 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = wedding desain 1
+
+## Skin
+
+### Button
+Button_CBDAF439_C4B7_4150_41E2_960064B3D865.label = Open Invitation
+Button_CBDAF439_C4B7_4150_41E2_960064B3D865_mobile.label = Open Invitation
+
+### Multiline Text
+HTMLText_D01AE885_C4B0_C130_41E2_65FE78A8793F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:41px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#2b1c00;font-size:41px;font-family:'HeyMagnolia';">Wedding Gallery</SPAN></SPAN></DIV></div>
+HTMLText_D01AE885_C4B0_C130_41E2_65FE78A8793F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:42px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#2b1c00;font-size:42px;font-family:'HeyMagnolia';">Wedding Gallery</SPAN></SPAN></DIV></div>
+HTMLText_D0EFFFAC_C4B1_5F70_41E0_F0284118FF10.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#160601;font-size:14px;font-family:Tahoma, Geneva, sans-serif;">Help us to capture the moment by uploading photos of our wedding day to your instagram using the hashtag #AnandaGetsLucky</SPAN></SPAN></DIV></div>
+HTMLText_D0EFFFAC_C4B1_5F70_41E0_F0284118FF10_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#160601;font-size:16px;font-family:Tahoma, Geneva, sans-serif;">Help us to capture the moment by uploading photos of our wedding day to your instagram using the hashtag #AnandaGetsLucky</SPAN></SPAN></DIV></div>
+HTMLText_D45AA25F_C491_C1D0_41DC_D3A61C0D2069.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#081a0d;font-size:15px;font-family:'Fira Code Light';">THE WEDDING OF</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:75px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#081a0d;font-size:75px;font-family:'HeyMagnolia';">Ariel &amp; Luna</SPAN></SPAN></DIV></div>
+HTMLText_D45AA25F_C491_C1D0_41DC_D3A61C0D2069_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:7.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#081a0d;font-size:7.5px;font-family:'Fira Code Light';">THE WEDDING OF</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:37.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#081a0d;font-size:37.5px;font-family:'HeyMagnolia';">Ariel </SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:37.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#081a0d;font-size:37.5px;font-family:'HeyMagnolia';">&amp;</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:37.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#081a0d;font-size:37.5px;font-family:'HeyMagnolia';"> Luna</SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+panorama_B1E178EE_BACC_EF1F_41C7_9C1C2EB44028.label = blank white
+video_C9CB0C88_C4B0_C130_41D8_C3540672FDB0.label = loading
